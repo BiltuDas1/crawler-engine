@@ -22,4 +22,9 @@ func main() {
 
 	result := mod.ExtractURL(resp.Body, "https://example.com/")
 	fmt.Println(result)
+
+	//Extract HTML
+
+	// url := "https://github.com/mohanmal553/SE"  // Define target URL or PATH
+	// fetchHTML(url)
 }
