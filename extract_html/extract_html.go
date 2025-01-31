@@ -39,4 +39,10 @@ func fetchHTML(url string) {
 
 	// OR, Print the HTML content
 	// fmt.Println(string(body))
+
+	//Extract HTML
+
+	// Define target URL or PATH
+	link_url := "https://github.com/mohanmal553/SE"
+	fetchHTML(link_url)
 }
