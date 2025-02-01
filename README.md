@@ -23,9 +23,7 @@ A simple Web Crawler for a model Search Engines like Google
 - Return the href attribute value
 
 ### Store HTML Code into Persistent Memory
-- Send a GET request
-- Read the response body
-- Write the HTML content to a file
+- 
 
 ### Store the URL's back into Queue
 
